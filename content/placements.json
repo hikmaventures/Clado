@@ -7,6 +7,14 @@
       "designation": "linux admin",
       "date": "2026-11-13",
       "published": true
+    },
+    {
+      "name": "dfsdf",
+      "photo": "uploads/stu2.jpg",
+      "company": "dfd",
+      "designation": "dfd",
+      "date": "2026-11-13",
+      "published": true
     }
   ],
   "companies": [

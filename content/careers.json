@@ -10,20 +10,12 @@
     "published": true
   },
   {
-    "title": "Job 2",
-    "location": "ekm",
-    "experience": "3-4",
-    "description": "linux aws",
+    "title": "test",
+    "location": "etstt",
+    "job_type": "tsttst",
+    "experience": "tststst",
+    "description": "tststt",
     "deadline": "2026-11-13",
-    "published": false
-  },
-  {
-    "title": "job3",
-    "location": "ekm",
-    "job_type": "fulltime",
-    "experience": "1",
-    "description": "nil",
-    "deadline": "2026-11-13",
-    "published": false
+    "published": true
   }
 ]

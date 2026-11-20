@@ -15,6 +15,14 @@
       "designation": "dfd",
       "date": "2026-11-13",
       "published": true
+    },
+    {
+      "name": "student 3",
+      "photo": "uploads/stu3.jpg",
+      "company": "ABC",
+      "designation": "Lin",
+      "date": "2026-11-20",
+      "published": true
     }
   ],
   "companies": [
